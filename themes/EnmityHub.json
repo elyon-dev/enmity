@@ -1,12 +1,11 @@
 {
-	"name": "Mocha",
+	"name": "EnmityHub",
 	"version": "1.5",
-	"description": "☕️ Catppuccin Mocha.",
-	"color": "#cba6f7",
+	"description": "Enmity Hub.",
 	"authors": [
 		{
-			"name": "112c",
-			"id": "696446023815397456"
+			"name": "flower",
+			"id": "836452332387565590"
 		}
 	],
 	"theme_color_map": {
