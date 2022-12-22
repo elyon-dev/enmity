@@ -194,7 +194,8 @@
 			"PRIMARY_DARK_800": "#151515",
 			"PRIMARY_DARK_900": "#1e1e2e",
             "STATUS_RED": "#fe9000",
-            "STATUS_GREEN_600": "#fe9000"
+            "STATUS_GREEN_600": "#fe9000",
+            "WHITE": "#cdd6f4"
 		},
 		"unsafe_colors": {
 			"CHAT_GREY": "#000000"
