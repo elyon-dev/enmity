@@ -11,7 +11,7 @@
 	"theme_color_map": {
         "KEYBOARD": [
             "#111011",
-            "#747f8d"
+            "#000000"
           ],
 		"ACTIVITY_CARD_BACKGROUND": ["#1e1e2e", "#1e1e2e"],
         "BACKGROUND_ACCENT": [
@@ -20,13 +20,13 @@
           ],
         "BACKGROUND_FLOATING": [
             "#000000",
-            "#FFFFFF"
+            "#000000"
           ],
 		"BACKGROUND_MENTIONED": ["#fab387", "#fab387"],
 		"BACKGROUND_MENTIONED_HOVER": ["#f9e2af", "#f9e2af"],
         "BACKGROUND_MESSAGE_HOVER": [
             "rgba(255, 255, 255, 0.02)",
-            "#FFFFFF"
+            "#000000"
           ],
         "BACKGROUND_MOBILE_PRIMARY": [
             "#000000",
@@ -34,7 +34,7 @@
           ],
         "BACKGROUND_MOBILE_SECONDARY": [
             "#111011",
-            "#ffffff"
+            "#000000"
           ],
         "BACKGROUND_MODIFIER_ACCENT": [
             "transparent",
@@ -54,11 +54,11 @@
           ],
         "BACKGROUND_NESTED_FLOATING": [
             "#111011",
-            "#ffffff"
+            "#000000"
           ],
         "BACKGROUND_PRIMARY": [
             "#000000",
-            "#ffffff"
+            "#000000"
           ],
         "BACKGROUND_SECONDARY": [
             "#111011",
@@ -120,7 +120,7 @@
 		"INFO_WARNING_FOREGROUND": ["#11111b", "#11111b"],
 		"INFO_WARNING_TEXT": ["#bac2de", "#bac2de"],
         "INTERACTIVE_ACTIVE": [
-            "#ffffff",
+            "#000000",
             "#060607"
           ],
         "INTERACTIVE_HOVER": [
@@ -181,8 +181,8 @@
 		"colours": {
 			"BRAND_NEW": "#555555",
 			"PRIMARY_DARK": "#747474",
-			"PRIMARY_DARK_100": "#FFFFFF",
-            "PRIMARY_DARK_200": "#FFFFFF",
+			"PRIMARY_DARK_100": "#000000",
+            "PRIMARY_DARK_200": "#000000",
 			"PRIMARY_DARK_300": "#B6B6B6",
 			"PRIMARY_DARK_360": "#C8C8C8",
 			"PRIMARY_DARK_400": "#bebee3",
