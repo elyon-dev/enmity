@@ -2,6 +2,7 @@
 	"name": "EnmityHub",
 	"version": "1.5",
 	"description": "Enmity Hub.",
+    "color": "#cba6f7",
 	"authors": [
 		{
 			"name": "flower",
